@@ -11,7 +11,7 @@
 * **👧 Call me**: *Noval Soul*
 * **🇻🇳 Country**: *Viet Nam*
 * **💻 My job**: *Developer*
-* **💝 Interest**: *Sleep*
+* **💝 Interest**: *Sleeping*
 
 
 
