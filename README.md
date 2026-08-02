@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">👤 About Me</b></h1>
+<h1 align="center"><b>👤 About Me</b></h1>
 
 * **🇻🇳 Country**: *Viet Nam*
 * **💻 My job**: *Developer*
@@ -20,6 +20,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</details>
+
+<details>
+<summary><b>📑 Project</b></summary>
+
+<ul>
+  <li>
+   <details>
+   <summary><b>📑 Recent projects</b></summary>
+  
+* *I am currently working on chatbot projects*
+* *Um... it's quite interesting, I really like it*
+* *I think... if this project is finished, I'll release it...* **IF YOU WANT IT**.
+* *You can try it for free, and you can give me feedback so I can   improve this project.*
+  </details>
+  </li>
+</ul>
 </details>
 
 
