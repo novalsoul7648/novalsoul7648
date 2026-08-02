@@ -4,18 +4,13 @@
   </a>
 </p>
 
-___
+
 
 <h1 align="center">👤 About Me</b></h1>
 
 * **👧 My name is**: *Tran Nguyen Phi Nhung*
 * **💻 My job**: *Developer*
 * **💝 Interest**: *Sleep*
-
-___
-
-
-
 
 
 
