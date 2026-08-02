@@ -19,6 +19,7 @@ ___
 
 
 
+<h1 align="center">🐍 Contribution Snake</b></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Novalsoul7648/Novalsoul7648/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
